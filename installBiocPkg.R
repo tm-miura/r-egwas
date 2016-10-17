@@ -4,6 +4,9 @@ library(BiocInstaller) # shouldn't be necessary
 pkgs <- c(
 	  "minfi",
 	  "RnBeads",
+	  "wateRmelon",
+	  "sva",
+	  "ChAMP",
 	  "limma",
 	  "gplots",
 	  "TxDb.Hsapiens.UCSC.hg19.knownGene",
